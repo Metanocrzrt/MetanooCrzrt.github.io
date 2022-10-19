@@ -1,0 +1,24 @@
+body {
+    font-family: cursive;
+    margin: 0;
+    background-color: rgb(245 245 220);
+}
+
+table {
+    border-collapse: collapse;
+    font-size: 10pt;
+    border: 1px solid #cccc;
+}
+td {
+    padding: 3px;
+    height: 25px;
+}
+/* tr {
+    background-color: steelblue;
+    color: white;
+    height: 30px; */
+
+h2 {
+    font-weight: 600;
+    color: #000000;
+}
